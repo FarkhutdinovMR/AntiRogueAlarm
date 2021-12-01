@@ -5,7 +5,7 @@ using UnityEngine.Events;
 
 public class MotionSensor : MonoBehaviour
 {
-    public UnityAction Entered;
+    public event UnityAction Entered;
 
     private void OnTriggerEnter(Collider other)
     {

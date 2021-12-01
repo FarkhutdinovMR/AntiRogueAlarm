@@ -791,7 +791,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _enterSensor: {fileID: 1546437737}
   _exitSensor: {fileID: 1448459878}
-  _volumeSwitchDuration: 2
+  _volumeChangeSpeed: 0.5
   _minVolume: 0
   _maxVolume: 1
 --- !u!23 &924958758
